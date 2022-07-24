@@ -3,7 +3,7 @@ title: "Proposal for the search for exotic spin-spin interactions at the microme
 collection: publications
 permalink: /publication/998_2023_prd_proposal
 excerpt: 'Authors: Qian Wang, **Ze Ouyang**, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo<sup>*</sup>'
-date: 202x-01-01
+date: 2099-01-01
 venue: 'xxx'
 paperurl: 
 citation: 'Qian Wang, Ze Ouyang, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo. (202x). <i>xxxx</i>. xxx(xxxx).'
