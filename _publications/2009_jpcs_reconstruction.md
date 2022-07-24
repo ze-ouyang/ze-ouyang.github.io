@@ -2,7 +2,7 @@
 title: "Reconstruction, Analysis of the Process ggH Decay to llνν Monte Carlo with MH=125 GeV and Introduction of the Physical Background"
 collection: publications
 permalink: /publication/2009_jpcs_reconstruction
-excerpt: 'Author: Fanli Zeng<sup>*</sup>, Yiwei Liu, **Ze Ouyang**, Bolin Wu, and Jingyuan Zhang.'
+excerpt: 'Authors: Fanli Zeng<sup>*</sup>, Yiwei Liu, **Ze Ouyang**, Bolin Wu, and Jingyuan Zhang.'
 date: 2022-06-01
 venue: 'Journal of Physics: Conference Series'  
 paperurl: ' '
