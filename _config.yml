@@ -83,11 +83,11 @@ author:
   name             : "Ze Ouyang"
   avatar           : "profile.png"
   bio              :  # "Your biography for the left-hand sidebar"
-  location         :  # "Location"
+  location         :  # "Austin, TX, US"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=NUe4rqEAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "ze_ouyang@utexas.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ze-ouyang"
+  github           : "ze-ouyang"
   google_plus      :
   keybase          :
   instagram        :
