@@ -10,16 +10,7 @@ redirect_from:
 
 I'm Ze Ouyang and I'm currently a physics PhD student in University of Texas at Austin. I obtained my bachelor degree in physics from Huazhong University of Science and Technology in 2022.
 
-My research interest mainly focuses in atomic, molecular, and optical physics experiment. On top of that, I'm also interested in astrophysics and condensed matter physics.
-
-Here are several friendly links.  <!--（加两个空格再换行，下同） -->
-* [Center for gravitaional experiments, Huazhong University of Science and Technology.](http://ggg.hust.edu.cn)   
-* [ENP group](http://ggg.hust.edu.cn/yljcwl/xwlxyjy.htm)  
-* [Prof. Pengshun Luo](http://faculty.hust.edu.cn/luopengshun/en/index/1380185/list/index.htm)  
-* [Prof. Jianfang Wang's group in Chinese University of Hong Kong](http://jfwang.nanoseedz.com/)  
-* [Prof. Joshua Winn](https://web.astro.princeton.edu/people/joshua-winn)  
-* [Chen Huang](https://physchen.com/)  
-* [Zongqi Shen](https://physshen.com/)  
+My research interest mainly focuses in atomic, molecular, and optical physics experiment. On top of that, I'm also interested in astrophysics and condensed matter physics. 
 
 
 
