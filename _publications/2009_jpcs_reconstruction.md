@@ -5,7 +5,7 @@ permalink: /publication/2009_jpcs_reconstruction
 excerpt: ' '
 date: 2022-06-01
 venue: ' '
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/2287/1/012030'
 citation: ' '
 ---
 This paper is about the number 1. The number 2 is left for future work.
