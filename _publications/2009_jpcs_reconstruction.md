@@ -5,7 +5,7 @@ permalink: /publication/2009_jpcs_reconstruction
 excerpt: 'Author: Fanli Zeng<sup>*</sup>, Yiwei Liu, **Ze Ouyang**, Bolin Wu, and Jingyuan Zhang.'
 date: 2022-06-01
 venue: 'Journal of Physics: Conference Series'  
-paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/2287/1/012030'
+paperurl: ' '
 citation: 'Fanli Zeng, Yiwei Liu, Ze Ouyang, Bolin Wu, and Jingyuan Zhang. (2022). &quot; <i>Journal of Physics: Conference Series</i>. 2287(012030).'
 ---
 [Download paper here](http://ze-ouyang.github.io/files/2009_jpcs_reconstruction.pdf)
