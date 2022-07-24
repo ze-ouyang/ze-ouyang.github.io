@@ -2,11 +2,11 @@
 title: "Reconstruction, Analysis of the Process ggH Decay to llνν Monte Carlo with MH=125 GeV and Introduction of the Physical Background"
 collection: publications
 permalink: /publication/2009_jpcs_reconstruction
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: ' '
+date: 2022-06-01
+venue: ' '
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ' '
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
