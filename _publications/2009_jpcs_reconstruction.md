@@ -10,7 +10,7 @@ paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/2287/1/012030/me
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-Author: Fanli Zeng^*^, Yiwei Liu, **Ze Ouyang**, Bolin Wu, and Jingyuan Zhang.
+Author: Fanli Zeng^ * ^, Yiwei Liu, **Ze Ouyang**, Bolin Wu, and Jingyuan Zhang.
 
 [Download paper here](http://ze-ouyang.github.io/files/2009_jpcs_reconstruction.pdf)
 
