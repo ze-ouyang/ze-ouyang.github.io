@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: # "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, Huazhong University of Science and Technology, 2022
 * Ph.D. in Physics, University of Texas at Austin, 2027 (expected)
+* B.Sc. in Physics, Huazhong University of Science and Technology, 2022
 
 <!-- Work experience
 ======
@@ -29,10 +29,6 @@ Education
 Skills
 ======
 * Python
-<!-- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
 * C++
 * Mathematica
 * LaTex
