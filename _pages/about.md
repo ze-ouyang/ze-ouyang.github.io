@@ -12,7 +12,7 @@ I'm Ze Ouyang and I'm currently a physics PhD student in University of Texas at 
 
 My research interest mainly focuses in atomic, molecular, and optical physics experiment. On top of that, I'm also interested in astrophysics and condensed matter physics.
 
-Here are several friendly links.     <!--（加两个空格再换行，下同） -->
+Here are several friendly links.  <!--（加两个空格再换行，下同） -->
 * [Center for gravitaional experiment, Huazhong University of Science and Technology.](http://ggg.hust.edu.cn)   
 * [ENP group](http://ggg.hust.edu.cn/yljcwl/xwlxyjy.htm)  
 * [Prof. Pengshun LUO](http://faculty.hust.edu.cn/luopengshun/zh_CN/index.htm)  
