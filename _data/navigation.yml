@@ -18,11 +18,11 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
     
+  - title: "Presentations"
+    url: /presentations/  
+    
   - title: "CV"
     url: /cv/
-    
-  - title: "Presentations"
-    url: /presentations/
 
   - title: "Links"
     url: /links/
