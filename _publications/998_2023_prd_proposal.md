@@ -1,5 +1,5 @@
 ---
-title: "Proposal for the search for exotic spin-spin interactions at the micrometer scale using functionalized cantilever force sensors"
+title: "Proposal for the search for exotic spin-spin interactions at the micrometer scale using functionalized cantilever force sensors(Submitted and under review)"
 collection: publications
 permalink: /publication/998_2023_prd_proposal
 excerpt: 'Authors: Qian Wang, **Ze Ouyang**, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo<sup>*</sup>'
