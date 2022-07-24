@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Ze OUYANG"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
