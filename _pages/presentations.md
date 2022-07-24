@@ -9,4 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
+* 2020-01-12, [Jounal club](http://ze-ouyang.github.io/files/axion_modified_ED.pdf)
 * 2022-05-25, [Bachelor degree](http://ze-ouyang.github.io/files/bachelor_defense.pdf).
