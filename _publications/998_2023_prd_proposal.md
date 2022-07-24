@@ -9,5 +9,5 @@ paperurl:
 citation: 'Qian Wang, Ze Ouyang, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo. (202x). <i>xxxx</i>. xxx(xxxx).'
 ---
 
-* [Online access](https://orcid.org/)  
-* [Download paper from me](https://orcid.org/)  
+* Online access
+* Download from me
