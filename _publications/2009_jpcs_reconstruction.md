@@ -9,5 +9,5 @@ paperurl:
 citation: 'Fanli Zeng, Yiwei Liu, Ze Ouyang, Bolin Wu, and Jingyuan Zhang. (2022). &quot; <i>Journal of Physics: Conference Series</i>. 2287(012030).'
 ---
 
-* [online access]{https://iopscience.iop.org/article/10.1088/1742-6596/2287/1/012030}  
+* [online access](https://iopscience.iop.org/article/10.1088/1742-6596/2287/1/012030)  
 * [Download paper from me](http://ze-ouyang.github.io/files/2009_jpcs_reconstruction.pdf)  
