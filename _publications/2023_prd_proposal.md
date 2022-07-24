@@ -9,5 +9,5 @@ paperurl:
 citation: 'Qian Wang, **Ze Ouyang**, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo. (202x). <i>xxxx</i>. xxx(xxx).'
 ---
 
-* [Online access]()  
-* [Download paper from me]()  
+* [Online access](xxx)  
+* [Download paper from me](xxx)  
