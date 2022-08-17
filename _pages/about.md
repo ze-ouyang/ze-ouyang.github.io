@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Ze Ouyang and I'm currently a physics PhD student in University of Texas at Austin. I obtained my bachelor degree in physics from Huazhong University of Science and Technology in 2022.
-
-My research interest mainly focuses in atomic, molecular, and optical physics experiment. On top of that, I'm also interested in astrophysics and condensed matter physics. 
-
+I'm Ze Ouyang, and I'm currently a physics PhD student in the University of Texas at Austin, advised by Prof. [Michael Downer](https://cns.utexas.edu/directory/item/18-physics/424-downer-michael-w?Itemid=349).
 
 
 <!-- The followings are annotated. -->
