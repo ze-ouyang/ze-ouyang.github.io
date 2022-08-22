@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Ze Ouyang ([click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a physics PhD student in the University of Texas at Austin, advised by Prof. [Michael Downer](https://cns.utexas.edu/directory/item/18-physics/424-downer-michael-w?Itemid=349).
+Hi there, my name is Ze Ouyang ([click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a), Safari browser recommended). I'm currently a physics PhD student in the University of Texas at Austin, advised by Prof. [Michael Downer](https://cns.utexas.edu/directory/item/18-physics/424-downer-michael-w?Itemid=349).
 
 
 <!-- The followings are annotated. -->
