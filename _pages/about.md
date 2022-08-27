@@ -12,7 +12,7 @@ Hi there, my name is Ze Ouyang ([click for pronunciation](https://ze-ouyang.gith
 
 My research field focuses in laser plasma interaction.
 
-On top of that, I am also interested in history, politics, computer science, and all the other fresh things. Recently I am trying to teach myself computer science in an integrated way. The same might be appropriate for me in learning physics, lol.
+On top of that, I am also interested in history, politics, computer science, and all the other fresh things. Recently I am trying to teach myself computer science in an integrated way. The same might be more appropriate for me in learning physics, lol.
 
 
 <!-- The followings are annotated. -->
