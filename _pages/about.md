@@ -10,9 +10,8 @@ redirect_from:
 
 Hi there, my name is Ze Ouyang ([click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a), Safari browser recommended). I'm currently a physics PhD student in the University of Texas at Austin, advised by Prof. [Michael Downer](https://cns.utexas.edu/directory/item/18-physics/424-downer-michael-w?Itemid=349).
 
-My research interest lies in laser plasma interaction and experimental search for new physics.
+My research interest lies in laserplasma interaction and experimental search for new physics.
 
-<!-- On top of that, I am also interested in history, politics, computer science, and all the other fresh things. Recently I am trying to teach myself computer science in an integrated way. The same might be more appropriate for me in learning physics, lol.-->
 
 
 <!-- The followings are annotated. -->
