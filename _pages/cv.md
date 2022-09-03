@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-（[click here for a pdf version](https://www.dropbox.com/s/o9xh13z2qa0efox/ze_CV.pdf?dl=0)）
+（[click here for a pdf version](https://www.dropbox.com/s/kl5alwh0rr6aute/ze_CV.pdf?dl=0)）
 
 Education
 ======
