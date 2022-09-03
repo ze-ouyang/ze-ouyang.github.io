@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+（click here for a pdf version）
+
 Education
 ======
 * Ph.D. in Physics, University of Texas at Austin, 2027 (expected)
