@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-（click here for a pdf version）
+（[click here for a pdf version](https://github.com/ze-ouyang/ze-CV/blob/0/ze_CV.pdf)）
 
 Education
 ======
