@@ -11,7 +11,7 @@ redirect_from:
 
 <!--[**Click here**](https://www.dropbox.com/s/kl5alwh0rr6aute/ze_CV.pdf?dl=0) for a pdf version (continue to website)-->
 [**Click here**](http://ze-ouyang.github.io/files/ze_CV(9.5).pdf)  for a pdf version, if you are an HR  
-[**Click here**](http://ze-ouyang.github.io/files/ze_CV(11.3).pdf)  for fun, my friend
+<!--[**Click here**](http://ze-ouyang.github.io/files/ze_CV(11.3).pdf)  for fun, my friend-->
 
 Education
 ======
