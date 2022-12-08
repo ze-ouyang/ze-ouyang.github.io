@@ -12,6 +12,8 @@ Hi there, my name is Ze Ouyang (欧阳泽 in Chinese; [click for pronunciation](
 
 My research interest lies in laser-plasma interaction and experimental search for new physics.
 
+I am actively looking for a working opportunity in computer science.
+
 
 
 <!-- The followings are annotated. -->
