@@ -6,7 +6,7 @@ excerpt: 'Authors: Qian Wang, **Ze Ouyang**, Yu Lu, Jianbo Wang, Lin Zhu, Pengsh
 date: 2023-01-01
 venue: 'Physical Review D'
 paperurl: 
-citation: 'Qian Wang, Ze Ouyang, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo. (2023). <i>xxxx</i>. xxx(xxxx).'
+citation: 'Qian Wang, Ze Ouyang, Yu Lu, Jianbo Wang, Lin Zhu, Pengshun Luo. (2023). <i>Physical Review D</i>. xxx(xxxx).'
 ---
 
 * [Online access](https://journals.aps.org/prd/accepted/99076Q06Hd41853a628b7278eed01f001a3bd6421)
