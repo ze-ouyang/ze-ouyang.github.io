@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Physics, University of Texas at Austin, 2027 (expected)
+* Ph.D. in Physics, The University of Texas at Austin, 2027 (expected)
 * B.Sc. in Physics, Huazhong University of Science and Technology, 2022
 
 Skills
