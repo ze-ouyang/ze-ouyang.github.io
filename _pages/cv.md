@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!--[**Click here**](https://www.dropbox.com/s/kl5alwh0rr6aute/ze_CV.pdf?dl=0) for a pdf version (continue to website)-->
-[**Click here**](http://ze-ouyang.github.io/files/ze_CV(1.6).pdf)  for a pdf version    
+[**Click here**](http://ze-ouyang.github.io/files/ze_CV(1.13).pdf)  for a pdf version    
 <!--[**Click here**](http://ze-ouyang.github.io/files/ze_CV(11.3).pdf)  for fun, my friend-->
 
 Education
