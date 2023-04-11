@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<font color=Blue size=5>“天意从来高难问”</font>
+<font color=Blue>“天意从来高难问”</font>
 
 Hi there, my name is Ze Ouyang (欧阳泽 in Chinese; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a physics PhD student in The University of Texas at Austin, advised by [Mike Downer](https://ph.utexas.edu/component/cobalt/item/18-physics/424-downer-michael-w?Itemid=1264).
 
