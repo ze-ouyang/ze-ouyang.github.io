@@ -15,7 +15,7 @@ My research interest lies in laser-plasma interaction and experimental search fo
 
 **I am actively looking for a non-paid research position in a computer science research group for the 2023 spring semster.**
 
-<font color=Blue>“天意从来高难问”</font>
+<!-- <font color=Blue>“天意从来高难问”</font> -->
 
 
 <!-- The followings are annotated. -->
