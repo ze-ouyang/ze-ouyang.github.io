@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-Hi there, my name is Ze Ouyang (欧阳泽 in Chinese; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a physics PhD student in The University of Texas at Austin, advised by [Mike Downer](https://ph.utexas.edu/component/cobalt/item/18-physics/424-downer-michael-w?Itemid=1264).
+<!-- Hi there, my name is Ze Ouyang (欧阳泽 in Chinese; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a physics PhD student in The University of Texas at Austin, advised by [Mike Downer](https://ph.utexas.edu/component/cobalt/item/18-physics/424-downer-michael-w?Itemid=1264).
 
-My research interest lies in laser-plasma interaction and experimental search for new physics.
+My research interest lies in laser-plasma interaction and experimental search for new physics. -->
 
-**I am actively looking for a non-paid research position in a computer science research group for the 2023 spring semster.**
-
-<!-- <font color=Blue>“天意从来高难问”</font> -->
+这b学是一天都不想上了😅
 
 
 <!-- The followings are annotated. -->
