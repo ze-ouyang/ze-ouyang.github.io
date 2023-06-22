@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 * 2022-05-25, [Bachelor degree](http://ze-ouyang.github.io/files/bachelor_defense.pdf) (Proposal for the search for exotic spin-spin interaction at the micrometer range using a micro-cantilever).
-* 2020-01-12, [Journal club](http://ze-ouyang.github.io/files/axion_modified_ED.pdf) (Axion-modified electrodynamics).
+* 2020-10-17, [Journal club](http://ze-ouyang.github.io/files/Brief_SPM.pdf) (Bried Introduction to Scanning Probe Microscopy).  
+* 2020-01-12, [Journal club](http://ze-ouyang.github.io/files/axion_modified_ED.pdf) (Axion-modified electrodynamics).  
