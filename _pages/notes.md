@@ -11,7 +11,7 @@ redirect_from:
 
 
 Here are several notes.  <!--（加两个空格再换行，下同） -->  
-* Classical mechanics (coming soon)  
+* Classical mechanics (coming soon)
 <!-- * Electromagnetic mechanics (coming soon) -->  
 * Quantum mechanics (coming soon)  
 * Statistical mechanics (coming soon)  
