@@ -21,6 +21,6 @@ Here are several friendly links.  <!--（加两个空格再换行，下同） --
   * [NanoSeedz Company](http://nanoseedz.com/)  
 * [Prof. Joshua Winn](https://web.astro.princeton.edu/people/joshua-winn)  
 * [Chen Huang](https://physchen.com/)  
-* [Li Liu](https://scholar.google.com/citations?user=zO5iemAAAAAJ&hl=zh-CN)
+* [Li Liu](https://liuli9412.github.io/)
 <!--* [Zongqi Shen](https://physshen.com/) --> 
 <!--* [Jiaqi Cai](https://physcai.com/)  -->
