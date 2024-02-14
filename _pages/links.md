@@ -20,7 +20,7 @@ Here are several friendly links.  <!--（加两个空格再换行，下同） --
   * [Faculty page](https://www.phy.cuhk.edu.hk/people/teaching/jfwang.html)  
   * [Group](http://jfwang.nanoseedz.com/) led by Wang  
   * [NanoSeedz Company](http://nanoseedz.com/)  
-* [Prof. Joshua Winn](https://web.astro.princeton.edu/people/joshua-winn)  
+<!--* [Prof. Joshua Winn](https://web.astro.princeton.edu/people/joshua-winn)  -->  
 * [Chen Huang](https://physchen.com/)  
 <!--* [Li Liu](https://liuli9412.github.io/)--> 
 <!--* [Zongqi Shen](https://physshen.com/) --> 
