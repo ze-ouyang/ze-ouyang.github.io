@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there, my name is Ze Ouyang (欧阳泽 in Chinese; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a 3rd-year physics PhD candidate at UT Austin, advised by [Michael Downer](https://ph.utexas.edu/component/cobalt/item/18-physics/424-downer-michael-w?Itemid=1264).
+Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm currently a 3rd-year physics PhD candidate at UT Austin, advised by [Michael Downer](https://ph.utexas.edu/component/cobalt/item/18-physics/424-downer-michael-w?Itemid=1264).
 
 My research interest lies in laser wakefield acceleration and experimental search for new physics.  
 
