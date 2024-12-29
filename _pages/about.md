@@ -13,8 +13,6 @@ Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-
 
 My research interest lies in laser wakefield acceleration and experimental search for new physics.  
 
-Contact: [WeChat](http://ze-ouyang.github.io/images/wechat.jpg)  
-
 <!--  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=-CkCWuCA9t0i355Fb7gMSx7rCMtzH7M-EU2u4Tsg8zg'></script>/  -->
 
 <!-- The followings are annotated. -->
