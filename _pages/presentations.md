@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include base_path %} 
 * 2025-01-16, [Research progress](https://ze-ouyang.github.io/files/20250116%20First%20NNCOTR.pdf) (Preliminary reconstructions of the 3D structure of electron bunches based on COTR using two methods).    
 * 2024-11-12, [Seminar talk](https://ze-ouyang.github.io/files/20241112%20ML%20Auto%20Diff.pdf) (Machine Learning Seminar: Auto Differentiation).  
 * 2024-11-06, [Qualifier talk](https://ze-ouyang.github.io/files/20241106%20(Short)Ze%20Ouyang%20Qualifier%20Talk.pdf) (Exploring the quasi-6D structure of laser-wakefield-accelerated electron bunches with coherent optical transition radiation).  
