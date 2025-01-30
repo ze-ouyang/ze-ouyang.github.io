@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Softwatres"
+title: "Softwares"
 permalink: /softwares/
 author_profile: true
 redirect_from:
