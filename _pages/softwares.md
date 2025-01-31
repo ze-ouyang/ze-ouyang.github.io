@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %} 
 * Python packages for numerical integration
   * [cupyint](https://cupyint-doc.readthedocs.io/en/latest/): A CuPy-based Python package for numerical integration on GPU.
-  * torchint:  A PyTorch-based Python package for numerical integration on GPU, especially for machine learning.
-  * numpyint: A NumPy-based Python package for numerical integration on CPU.
+  * [torchint](https://torchint-doc.readthedocs.io/en/latest/):  A PyTorch-based Python package for numerical integration on GPU, especially for machine learning.
+  * [numpyint](https://numpyint-doc.readthedocs.io/en/latest/): A NumPy-based Python package for numerical integration on CPU.
 
   
