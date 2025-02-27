@@ -13,7 +13,7 @@ Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-
 
 My current research interest lies in  
 * Diagnostics for laser wakefield acceleration  
-* AI for science, such as neural-network-based inverse problems & partial differential equations 
+* AI for science, such as neural network approach for inverse problems & partial differential equations 
 * Experimental search for new physics  
  
 
