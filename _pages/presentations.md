@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %} 
+* 2025-05-06, [Research](https://ze-ouyang.github.io/files/20250506%20COTR%20recent%20results.pdf) (5th NNCOTR).  
 * 2025-03-04, [Research](https://ze-ouyang.github.io/files/20250304%20Fourth%20NNCOTR.pdf) (4th NNCOTR).  
 * 2025-02-20, [Research](https://ze-ouyang.github.io/files/20250220%20Third%20NNCOTR.pdf) (3rd NNCOTR).  
 * 2025-02-06, [Research](https://ze-ouyang.github.io/files/20250206%20Second%20NNCOTR.pdf) (2nd NNCOTR).  
