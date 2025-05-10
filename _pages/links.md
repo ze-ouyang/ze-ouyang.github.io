@@ -20,6 +20,6 @@ Here are several friendly links.  <!--（加两个空格再换行，下同） --
   * [Faculty page](https://www.phy.cuhk.edu.hk/people/teaching/jfwang.html)  
   * [Group](http://jfwang.nanoseedz.com/) led by Wang  
   * [NanoSeedz Company](http://nanoseedz.com/)
-* [Chen Huang](https://chenx820.github.io/notes.html) in which you'll find many useful notes
+* [Chen Huang](https://chenx820.github.io/notes) in which you'll find many useful notes
 
 
