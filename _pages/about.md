@@ -9,12 +9,12 @@ redirect_from:
 ---
  
 
-Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm a PhD student in physics at UT Austin, advised by [Michael Downer](https://physics.utexas.edu/directory/michael-downer).
+<!--  Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm a PhD student in physics at UT Austin, advised by [Michael Downer](https://physics.utexas.edu/directory/michael-downer).
 
 My current research interest lies in  
 * Diagnostics for laser wakefield acceleration  
 * AI for science, such as neural network approach for inverse problems & partial differential equations 
-* Experimental search for new physics  
+* Experimental search for new physics  -->
  
 
 <!--  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=-CkCWuCA9t0i355Fb7gMSx7rCMtzH7M-EU2u4Tsg8zg'></script>/  -->
