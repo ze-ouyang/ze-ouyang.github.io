@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- Hi there.
+I work on laser wakefield acceleration. My focus mainly lies in 3D/5D diagnostics for LWF-Accelerated electron bunches with advanced optical measurements.
+
+<!--  Hi there.  -->
 
 <!--  Hi there, my name is Ze Ouyang (欧阳泽; [click for pronunciation](https://ze-ouyang.github.io/files/name_pronunciation.m4a)). I'm a PhD student in physics at UT Austin, advised by [Michael Downer](https://physics.utexas.edu/directory/michael-downer).
 
