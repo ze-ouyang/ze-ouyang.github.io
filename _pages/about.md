@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I work on laser wakefield acceleration. My focus mainly lies in 3D/5D diagnostics for LWF-Accelerated electron bunches with advanced optical measurements.
+I work on laser wakefield acceleration. My focus mainly lies in ML-enhanced 3D/5D diagnostics for LWF-Accelerated electron bunches with advanced optical measurements.
 
 <!--  Hi there.  -->
 
